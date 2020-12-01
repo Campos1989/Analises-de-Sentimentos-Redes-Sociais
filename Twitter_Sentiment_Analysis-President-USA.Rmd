@@ -33,10 +33,10 @@ library('tidyverse')
 
 ```{r}
 # Criar as chaves e faço a conexão para o Twitter
-api_key <- 'BV0OzWXHGHaRuQ27rDjTHvTbg'
-api_key_secret <- 'b8RxgmB9onanIY0ojFmdNZWFRwjM7QHRTCZOEL8mShkZJIq1Pu'
-access_token <-'1321786391815213056-jI5N4WvcVkMgynvwzmFB2CTH8ZsPiB'
-access_token_secret <-'qV96NMS1aK8ZFJvut6awYJa9AcKwnX2waqqBNiRr8z1nP'
+api_key <- 'xxxxxxxxxxxxxxxxxxxxxxxx'
+api_key_secret <- 'xxxxxxxxxxxxxxxxxxxxxxxx'
+access_token <-'xxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx'
+access_token_secret <-'xxxxxxxxxxxxxxxxxxxxxxxx'
 ```
 
 ```{r}
